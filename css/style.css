@@ -1,0 +1,29 @@
+.hidden {
+    display: none;
+}
+
+#clock {
+    text-align: center;
+    font-size: 50pt;
+}
+
+#greeting {
+    text-align: center;
+    font-size: 30pt;
+}
+
+#quote {
+    text-align: center;
+    font-size: 20pt;
+    color: grey;
+}
+
+#weather {
+    text-align: center;
+    font-size: 35pt;
+    color: teal;
+}
+
+#todo-list {
+    font-size: 20pt;
+}
